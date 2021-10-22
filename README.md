@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DavidFFDAW/DavidFFDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! My name is David Fernández and I'm a web developer currently living in Málaga, Spain and currently working at Madein:Media as a Junior Backend Developer.
+You can find me on LinkedIn or Twitter.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Curious Information
 
-### My stats:
+  -  🔭 I’m currently working on: [Dart-Scorer](https://github.com/DavidFFDAW/Darts-Scorer) App
+  -  🌱 I’m currently learning `React`
+  -  😄 Pronouns: He/Him
+
+<br/>
 
 #### My GitHub Stats
 
@@ -24,6 +19,8 @@ Here are some ideas to get you started:
 #### The Languages I Use The Most
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFFDAW&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 
 ### Things I Use For Coding
@@ -48,3 +45,12 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e6e6ff?style=flat-rounded&logo=mysql&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-990000?style=flat-rounded&logo=java&logoColor=white" />
 </p>
+
+<br/>
+
+### Where to contact me
+
+  - :envelope: [Email](mailto:davidfernandezflores23@gmail.com)
+  - :bird: [Twitter](https://twitter.com/davidFFloresDev)
+  - :briefcase: [LinkedIn](https://www.linkedin.com/in/david-fern%C3%A1ndez-flores/)
+
