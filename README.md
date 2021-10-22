@@ -4,6 +4,12 @@ Hello there! My name is David Fernández and I'm a web developer currently livin
 You can find me on LinkedIn or Twitter.
 
 
+#### A little more about me
+
+I'm a web developer and I love programming and because of this I usually spend most of my time doing tech related stuff even if I do not end up publishing it.
+I have made several projects so far in different tech stacks. I am always learning new things and practicing and getting better in the things I already think I know
+
+
 #### Curious Information
 
   -  🔭 I’m currently working on: [Dart-Scorer](https://github.com/DavidFFDAW/Darts-Scorer) App
