@@ -12,7 +12,7 @@ I have made several projects so far in different tech stacks. I am always learni
 
 #### Curious Information
 
-  -  🔭 I’m currently working on: [Dart-Scorer](https://github.com/DavidFFDAW/Darts-Scorer) App
+  -  🔭 I’m currently working back on: [Poke-Info](https://github.com/DavidFFDAW/Poke-App) App
   -  🌱 I’m currently learning `React`
   -  😄 Pronouns: He/Him
 
