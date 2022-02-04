@@ -21,8 +21,8 @@ I have made several projects so far in different tech stacks. I am always learni
 #### My GitHub Stats
 
 <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
-![DavidFFDAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW&count_private=true&theme=radical&show_icons=true&a&bg_color=30,4b6cb7,182848&title_color=fff&text_color=fff)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFFDAW&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![DavidFFDAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW&theme=light&count_private=true&show_icons=true&a)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFFDAW&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
 
