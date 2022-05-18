@@ -17,8 +17,9 @@ I have made several projects so far in different tech stacks. I am always learni
   -  😄 Pronouns: He/Him
 
 <br/>
-
+<!-- 
 #### My GitHub Stats
+-->
 
 <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 
@@ -28,8 +29,9 @@ I have made several projects so far in different tech stacks. I am always learni
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<!-- 
 <br/>
+-->
 
 
 ### Things I Use For Coding
