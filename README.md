@@ -21,8 +21,10 @@ I have made several projects so far in different tech stacks. I am always learni
 #### My GitHub Stats
 
 <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
 ![DavidFFDAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidFFDAW&theme=light&count_private=true&show_icons=true&a)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFFDAW&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidFFDAW)](https://github.com/anuraghazra/github-readme-stats) -->
 
