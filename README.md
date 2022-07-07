@@ -12,7 +12,7 @@ I have made several projects so far in different tech stacks. I am always learni
 
 #### Curious Information
 
-  -  🔭 I’m currently working back on: [Poke-Info](https://github.com/DavidFFDAW/Poke-App) App
+  <!-- -  🔭 I’m currently working back on: [Poke-Info](https://github.com/DavidFFDAW/Poke-App) App -->
   -  🌱 I’m currently learning `React`
   -  😄 Pronouns: He/Him
 
@@ -50,6 +50,7 @@ I have made several projects so far in different tech stacks. I am always learni
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-rounded&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-rounded&logo=prettier&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-bb99ff?style=flat-rounded&logo=php&logoColor=white" />
+  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000?style=flat-rounded&logo=symfony&logoColor=white" />
   
   
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-rounded&logo=laravel&logoColor=white" />
@@ -62,6 +63,5 @@ I have made several projects so far in different tech stacks. I am always learni
 ### Where to contact me
 
   - :envelope: [Email](mailto:davidfernandezflores23@gmail.com)
-  - :bird: [Twitter](https://twitter.com/davidFFloresDev)
   - :briefcase: [LinkedIn](https://www.linkedin.com/in/david-fern%C3%A1ndez-flores/)
 
